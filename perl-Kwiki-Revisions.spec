@@ -16,6 +16,7 @@ BuildRequires:	perl-devel
 %endif
 BuildRequires:	perl(Kwiki)
 BuildArch:	noarch
+BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 Assuming you have one of the Archive plugins enabled this plugin let's users
