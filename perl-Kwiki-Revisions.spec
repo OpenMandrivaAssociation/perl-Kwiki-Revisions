@@ -1,7 +1,7 @@
 %define module	Kwiki-Revisions
 %define name	perl-%{module}
 %define version 0.15
-%define release %mkrel 3
+%define release %mkrel 5
 
 Name:		%{name}
 Version:	%{version}
